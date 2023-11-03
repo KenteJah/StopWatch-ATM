@@ -1,0 +1,16 @@
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\bin\Debug\net6.0-windows\StopWatch.exe
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\bin\Debug\net6.0-windows\StopWatch.deps.json
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\bin\Debug\net6.0-windows\StopWatch.runtimeconfig.json
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\bin\Debug\net6.0-windows\StopWatch.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\bin\Debug\net6.0-windows\StopWatch.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.StopWatch.resources
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.GenerateResource.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfoInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.AssemblyInfo.cs
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\refint\StopWatch.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\StopWatch.genruntimeconfig.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\StopWatch\obj\Debug\net6.0-windows\ref\StopWatch.dll

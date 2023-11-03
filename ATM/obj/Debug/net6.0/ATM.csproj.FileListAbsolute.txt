@@ -1,0 +1,14 @@
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\kente\OneDrive\Documents\VS Apps\ATM\obj\Debug\net6.0\ref\ATM.dll
